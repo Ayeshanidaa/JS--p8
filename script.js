@@ -1,4 +1,4 @@
-const API_KEY = "beeeefa952ac48969db4a361e5c1a315"; // Replace with your NewsAPI key
+const API_KEY = "bbdf8de4b61e4f0797955f93aa4d7646"; // Replace with your NewsAPI key
 const BASE_URL = "https://newsapi.org/v2/top-headlines";
 
 const categorySelect = document.getElementById("category");
